@@ -3,11 +3,5 @@
 		"github": {
 			"type": "http",
 			"url": "https://api.githubcopilot.com/mcp/"
-		},
-		"my-mcp-server-c1066cb0": {
-			"url": "http://localhost:8000",
-			"type": "http"
 		}
-	},
-	"inputs": []
 }
